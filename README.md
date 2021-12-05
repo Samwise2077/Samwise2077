@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Samwise2077
-- 👀 I’m interested in ...
+- 👀 I’m interested in video games, reading and programming ofc
 - 🌱 I’m currently learning Kotlin language
 - 💞️ I’m looking to collaborate on any projects on Kotlin
 - 📫 To text me dm in Discord(Samwise#5322)
